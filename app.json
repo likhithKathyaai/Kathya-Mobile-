@@ -1,0 +1,1 @@
+{"expo":{"name":"KATHYA AI","slug":"kathya-mobile","scheme":"kathya","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"dark","plugins":["expo-router"],"android":{"package":"com.kathyaai.mobile"},"ios":{"bundleIdentifier":"com.kathyaai.mobile"},"web":{"bundler":"metro"}}}
